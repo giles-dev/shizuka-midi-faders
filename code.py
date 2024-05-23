@@ -27,7 +27,7 @@ led.direction = Direction.OUTPUT
 
 knob_count = 4      # Set the total number of potentiometers used
 num_samples = 5     # How many samples to average over
-hyst_window = 300   # Hysteresis window
+hyst_window = 400   # Hysteresis window
 
 # Create the input objects list for potentiometers
 knob = []
